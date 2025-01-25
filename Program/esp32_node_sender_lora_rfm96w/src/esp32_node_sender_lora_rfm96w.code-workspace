@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "esp32_node_reader_lora_rfm96w",
+			"path": "../../esp32_node_reader_lora_rfm96w"
+		}
+	],
+	"settings": {}
+}
